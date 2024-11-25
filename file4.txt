@@ -1,0 +1,5 @@
+sql dba 
+db roles 
+server roles 
+backups 
+ha high level 
